@@ -17,3 +17,4 @@ $ git commit -m "added the attributes of the payments table"
 $ git commit -m "starting to add data to the tables created
 $ git commit -m "Added values to the Organiser table"
 $ git commit -m "Added values to the Participant table"
+$ git commit -m "Added values to the Event table"
