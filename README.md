@@ -22,3 +22,5 @@ $ git commit -m "Added values to the Categories table"
 $ git commit -m "Added values to the EventEnrolements table"
 $ git commit -m "Added values to the Results table"
 $ git commit -m "Added values to the Payments table"
+NB!!
+$ git commit -m "posted the duplicate code here on gihub because that is the only one that is currently working because, i had not realised that SQL server had opened a duplicated folder with the same solution so the changes weren't recorded, and instead- the duplicate version is the one that works perfectly instead of the original folder/solution"  NB!!!
