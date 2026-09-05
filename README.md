@@ -11,3 +11,5 @@ $ git commit -m "added an events table"
 $ git commit -m "added attributes to the table"
 $ git commit -m "added a categories table and added its attributes "
 $ git commit -m "added an eventEnrolment table as well as its attributes"
+$ git commit -m "added a results table as well as its attributes"
+
