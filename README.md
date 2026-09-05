@@ -10,3 +10,4 @@ $ git commit - m "ran into some syntax error on lie 14 and 23 but managed to fix
 $ git commit -m "added an events table"
 $ git commit -m "added attributes to the table"
 $ git commit -m "added a categories table and added its attributes "
+$ git commit -m "added an eventEnrolment table as well as its attributes"
